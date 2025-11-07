@@ -9,7 +9,7 @@
 package ubot
 
 import (
-	"github.com/AshokShau/TgMusicBot/internal/vc/ntgcalls"
+	"github.com/TANYA-SINGH-VNS-UP/100/internal/vc/ntgcalls"
 )
 
 func (ctx *Context) Play(chatId any, mediaDescription ntgcalls.MediaDescription) error {
