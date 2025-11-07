@@ -15,7 +15,7 @@ import (
 	"regexp"
 	"strings"
 
-	"github.com/AshokShau/TgMusicBot/internal/core/cache"
+	"https://github.com/TANYA-SINGH-VNS-UP/100/internal/core/cache"
 )
 
 const (
