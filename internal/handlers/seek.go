@@ -12,10 +12,10 @@ import (
 	"fmt"
 	"strconv"
 
-	"github.com/AshokShau/TgMusicBot/internal/core/cache"
-	"github.com/AshokShau/TgMusicBot/internal/core/db"
-	"github.com/AshokShau/TgMusicBot/internal/lang"
-	"github.com/AshokShau/TgMusicBot/internal/vc"
+	"github.com/TANYA-SINGH-VNS-UP/100/internal/core/cache"
+	"github.com/TANYA-SINGH-VNS-UP/100/internal/core/db"
+	"github.com/TANYA-SINGH-VNS-UP/100/internal/lang"
+	"github.com/TANYA-SINGH-VNS-UP/100/internal/vc"
 
 	"github.com/amarnathcjd/gogram/telegram"
 )
