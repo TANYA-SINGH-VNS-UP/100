@@ -11,7 +11,7 @@ package ubot
 import (
 	"slices"
 
-	"github.com/AshokShau/TgMusicBot/internal/vc/ntgcalls"
+	"github.com/TANYA-SINGH-VNS-UP/100/internal/vc/ntgcalls"
 
 	tg "github.com/amarnathcjd/gogram/telegram"
 )
