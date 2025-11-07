@@ -13,7 +13,7 @@ import (
 	"slices"
 	"time"
 
-	"github.com/AshokShau/TgMusicBot/internal/vc/ubot/types"
+	"github.com/TANYA-SINGH-VNS-UP/100/internal/vc/ubot/types"
 
 	tg "github.com/amarnathcjd/gogram/telegram"
 )
