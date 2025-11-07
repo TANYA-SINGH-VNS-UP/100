@@ -25,7 +25,7 @@ import (
 	"strings"
 	"time"
 
-	"https://github.com/TANYA-SINGH-VNS-UP/100/internal/config"
+	"github.com/TANYA-SINGH-VNS-UP/100/internal/config"
 
 	"github.com/Laky-64/gologging"
 )
