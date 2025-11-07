@@ -9,7 +9,7 @@
 package types
 
 import (
-	"github.com/AshokShau/TgMusicBot/internal/vc/ntgcalls"
+	"github.com/TANYA-SINGH-VNS-UP/100/internal/vc/ntgcalls"
 )
 
 type PendingConnection struct {
