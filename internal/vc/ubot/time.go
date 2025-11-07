@@ -8,7 +8,7 @@
 
 package ubot
 
-import "github.com/AshokShau/TgMusicBot/internal/vc/ntgcalls"
+import "github.com/TANYA-SINGH-VNS-UP/100/internal/vc/ntgcalls"
 
 func (ctx *Context) Time(chatId any, streamMode ntgcalls.StreamMode) (uint64, error) {
 	parsedChatId, err := ctx.parseChatId(chatId)
