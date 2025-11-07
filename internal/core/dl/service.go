@@ -11,8 +11,8 @@ package dl
 import (
 	"context"
 
-	"https://github.com/TANYA-SINGH-VNS-UP/100/internal/config"
-	"https://github.com/TANYA-SINGH-VNS-UP/100/internal/core/cache"
+	"github.com/TANYA-SINGH-VNS-UP/100/internal/config"
+	"github.com/TANYA-SINGH-VNS-UP/100/internal/core/cache"
 )
 
 // MusicService defines a standard interface for interacting with various music services.
