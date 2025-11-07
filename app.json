@@ -1,8 +1,8 @@
 {
   "name": "TgMusicBot",
   "description": "A Telegram music bot.",
-  "repository": "https://github.com/AshokShau/TgMusicBot",
-  "logo": "https://raw.githubusercontent.com/AshokShau/TgMusicBot/master/docs/logo.jpeg",
+  "repository": "https://github.com/TANYA-SINGH-VNS-UP/100",
+  "logo": "https://raw.githubusercontent.com/TANYA-SINGH-VNS-UP/100/master/docs/logo.jpeg",
   "keywords": [
     "telegram",
     "music",
@@ -30,12 +30,12 @@
     "OWNER_ID": {
       "description": "The user ID of the bot owner.",
       "required": false,
-      "value": "5938660179"
+      "value": "6972508083"
     },
     "LOGGER_ID": {
       "description": "The group ID for the bot's logs.",
       "required": true,
-      "value": "-1002166934878"
+      "value": "-1001511253627"
     },
     "SESSION_TYPE": {
       "description": "The session type (pyrogram, telethon, or gogram).",
@@ -90,10 +90,10 @@
     "API_URL": {
       "description": "API URL for external services.",
       "required": false,
-      "value": "https://tgmusic.fallenapi.fun"
+      "value": "https://api.vniox.store"
     },
     "API_KEY": {
-      "description": "API key for external services. Get you own from @FallenApiBot -> /apikey",
+      "description": "API key for external services. Get you own from @VnioxApiHubBot -> /apikey",
       "required": false
     },
     "DEFAULT_SERVICE": {
@@ -121,12 +121,12 @@
     "SUPPORT_GROUP": {
       "description": "Link to the support group.",
       "required": false,
-      "value": "https://t.me/GuardxSupport"
+      "value": "https://t.me/Nobita_Support"
     },
     "SUPPORT_CHANNEL": {
       "description": "Link to the support channel.",
       "required": false,
-      "value": "https://t.me/FallenProjects"
+      "value": "https://t.me/Heroku_Club"
     },
     "DEVS": {
       "description": "A space-separated list of developer user IDs.",
