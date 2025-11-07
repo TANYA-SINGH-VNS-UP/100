@@ -3,7 +3,7 @@
  *  Copyright (c) 2025 Ashok Shau
  *
  *  Licensed under GNU GPL v3
- *  See https://github.com/AshokShau/TgMusicBot
+ *  See https://github.com/TANYA-SINGH-VNS-UP/100
  */
 
 package vc
@@ -32,15 +32,15 @@ import (
 	"strings"
 	"time"
 
-	"github.com/AshokShau/TgMusicBot/internal/config"
-	"github.com/AshokShau/TgMusicBot/internal/core"
-	"github.com/AshokShau/TgMusicBot/internal/core/cache"
-	"github.com/AshokShau/TgMusicBot/internal/core/db"
-	"github.com/AshokShau/TgMusicBot/internal/core/dl"
-	"github.com/AshokShau/TgMusicBot/internal/lang"
-	"github.com/AshokShau/TgMusicBot/internal/vc/ntgcalls"
-	"github.com/AshokShau/TgMusicBot/internal/vc/sessions"
-	"github.com/AshokShau/TgMusicBot/internal/vc/ubot"
+	"github.com/TANYA-SINGH-VNS-UP/100/internal/config"
+	"github.com/TANYA-SINGH-VNS-UP/100/internal/core"
+	"github.com/TANYA-SINGH-VNS-UP/100/internal/core/cache"
+	"github.com/TANYA-SINGH-VNS-UP/100/internal/core/db"
+	"github.com/TANYA-SINGH-VNS-UP/100/internal/core/dl"
+	"github.com/TANYA-SINGH-VNS-UP/100/internal/lang"
+	"github.com/TANYA-SINGH-VNS-UP/100/internal/vc/ntgcalls"
+	"github.com/TANYA-SINGH-VNS-UP/100/internal/vc/sessions"
+	"github.com/TANYA-SINGH-VNS-UP/100/internal/vc/ubot"
 
 	"github.com/Laky-64/gologging"
 	tg "github.com/amarnathcjd/gogram/telegram"
