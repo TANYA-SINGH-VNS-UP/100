@@ -3,15 +3,15 @@
  *  Copyright (c) 2025 Ashok Shau
  *
  *  Licensed under GNU GPL v3
- *  See https://github.com/AshokShau/TgMusicBot
+ *  See https://github.com/TANYA-SINGH-VNS-UP/100
  */
 
 package pkg
 
 import (
-	"github.com/AshokShau/TgMusicBot/internal/config"
-	"github.com/AshokShau/TgMusicBot/internal/handlers"
-	"github.com/AshokShau/TgMusicBot/internal/vc"
+	"github.com/TANYA-SINGH-VNS-UP/100/internal/config"
+	"github.com/TANYA-SINGH-VNS-UP/100/internal/handlers"
+	"github.com/TANYA-SINGH-VNS-UP/100/internal/vc"
 
 	tg "github.com/amarnathcjd/gogram/telegram"
 )
