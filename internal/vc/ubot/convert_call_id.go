@@ -3,7 +3,7 @@
  *  Copyright (c) 2025 Ashok Shau
  *
  *  Licensed under GNU GPL v3
- *  See https://github.com/AshokShau/TgMusicBot
+ *  See https://github.com/TANYA-SINGH-VNS-UP/100
  */
 
 package ubot
