@@ -15,7 +15,7 @@ import (
 	"regexp"
 	"strings"
 
-	"https://github.com/TANYA-SINGH-VNS-UP/100/internal/core/cache"
+	"github.com/TANYA-SINGH-VNS-UP/100/internal/core/cache"
 )
 
 const (
