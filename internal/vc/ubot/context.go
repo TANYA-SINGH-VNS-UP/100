@@ -3,7 +3,7 @@
  *  Copyright (c) 2025 Ashok Shau
  *
  *  Licensed under GNU GPL v3
- *  See https://github.com/AshokShau/TgMusicBot
+ *  See https://github.com/TANYA-SINGH-VNS-UP/100
  */
 
 package ubot
@@ -11,8 +11,8 @@ package ubot
 import (
 	"sync"
 
-	"github.com/AshokShau/TgMusicBot/internal/vc/ntgcalls"
-	"github.com/AshokShau/TgMusicBot/internal/vc/ubot/types"
+	"github.com/TANYA-SINGH-VNS-UP/100/internal/vc/ntgcalls"
+	"github.com/TANYA-SINGH-VNS-UP/100/internal/vc/ubot/types"
 
 	tg "github.com/amarnathcjd/gogram/telegram"
 )
