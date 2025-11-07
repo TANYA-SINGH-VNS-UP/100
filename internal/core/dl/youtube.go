@@ -21,8 +21,8 @@ import (
 	"regexp"
 	"strings"
 
-	"github.com/AshokShau/TgMusicBot/internal/config"
-	"github.com/AshokShau/TgMusicBot/internal/core/cache"
+	"github.com/TANYA-SINGH-VNS-UP/100/internal/config"
+	"github.com/TANYA-SINGH-VNS-UP/100/internal/core/cache"
 )
 
 // YouTubeData provides an interface for fetching track and playlist information from YouTube.
