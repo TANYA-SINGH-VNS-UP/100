@@ -17,7 +17,7 @@ import (
 	"regexp"
 	"strings"
 
-	"github.com/AshokShau/TgMusicBot/internal/core/cache"
+	"github.com/TANYA-SINGH-VNS-UP/100/internal/core/cache"
 )
 
 // searchYouTube scrapes YouTube results page
