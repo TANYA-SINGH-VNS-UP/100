@@ -12,8 +12,8 @@ import (
 	"errors"
 	"fmt"
 
-	"github.com/AshokShau/TgMusicBot/internal/core/db"
-	"github.com/AshokShau/TgMusicBot/internal/lang"
+	"github.com/TANYA-SINGH-VNS-UP/100/internal/core/db"
+	"github.com/TANYA-SINGH-VNS-UP/100/internal/lang"
 
 	"github.com/Laky-64/gologging"
 	"github.com/amarnathcjd/gogram/telegram"
