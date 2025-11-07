@@ -3,7 +3,7 @@
  *  Copyright (c) 2025 Ashok Shau
  *
  *  Licensed under GNU GPL v3
- *  See https://github.com/AshokShau/TgMusicBot
+ *  See https://github.com/TANYA-SINGH-VNS-UP/100
  */
 
 package handlers
@@ -16,8 +16,8 @@ import (
 	"strings"
 	"time"
 
-	"github.com/AshokShau/TgMusicBot/internal/core/db"
-	"github.com/AshokShau/TgMusicBot/internal/lang"
+	"github.com/TANYA-SINGH-VNS-UP/100/internal/core/db"
+	"github.com/TANYA-SINGH-VNS-UP/100/internal/lang"
 
 	"github.com/amarnathcjd/gogram/telegram"
 	"github.com/shirou/gopsutil/cpu"
