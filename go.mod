@@ -1,6 +1,7 @@
-module github.com/AshokShau/TgMusicBot
+module github.com/TANYA-SINGH-VNS-UP/100
 
-go 1.24.4
+go 1.24
+
 
 require (
 	github.com/Laky-64/gologging v1.1.0
